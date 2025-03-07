@@ -34,8 +34,7 @@ Stork Verify BOT
 
 ## Configuration
 
-### Screenshots
-
+### How to get Refresh Token
 <div style="text-align: center;">
   <h4><strong>Refresh Token</strong></h4>
   <img src="image.png" alt="Image" width="500"/>
