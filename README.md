@@ -41,13 +41,20 @@ Stork Verify BOT
   <img src="image.png" alt="Image" width="500"/>
 </div>
 
-- **tokens.txt:** You will find the file `tokens.txt` inside the project directory. Make sure `tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+## Accounts Setup
+```bash
+nano tokens.txt
+```
+- ** Make sure `tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
   your_refresh_token_1
   your_refresh_token_2
   ```
-
-- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+## Proxy (Optional)
+```bash
+nano proxy.txt
+```
+- **  Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
   ip:port # Default Protcol HTTP.
   protocol://ip:port
