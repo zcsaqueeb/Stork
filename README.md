@@ -62,12 +62,19 @@ python bot.py #or python3 bot.py
 
 ## Buy Me a Coffee
 
-- **EVM:** 0xe3c9ef9a39e9eb0582e5b147026cae524338521a
-- **TON:** UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB
-- **SOL:** E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf
-- **SUI:** 0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347
-
-Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
-If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
-
-**vonssy**
+- EVM:
+```bash
+0x47f41Fcb17cF9B7A02C26EE855d26bB8D3928E1b
+```
+- TON:
+```bash
+UQA-qG5eyQ7gVxvPDpy484xzc0UPS9a8hJsUAwe0T_3D7_oF
+```
+- SOL:
+```bash
+A1pUv13rRDtubtYJuXswZYSQBJojPhthXJftfNZBRnEX
+```
+- SUI:
+```bash
+0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
+```
