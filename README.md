@@ -1,8 +1,8 @@
 # Stork Verify BOT
 Stork Verify BOT
 
-- Register Here : [Stork Verify](https://chromewebstore.google.com/detail/stork-verify/knnliglhgkmlblppdejchidfihjnockl)
-- Use Code: 0PD44V08F5
+- Register Here : [Stork Verify](https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl)
+- Use Code: AUK36VZAMD
 
 ## Features
 
@@ -21,10 +21,10 @@ Stork Verify BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Stork-BOT.git
+   git clone https://github.com/Not-D4rkCipherX/Stork.git
    ```
    ```bash
-   cd Stork-BOT
+   cd Stork
    ```
 
 2. **Install Requirements:**
