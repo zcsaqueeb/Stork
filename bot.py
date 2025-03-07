@@ -43,7 +43,7 @@ class Stork:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Stork - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}Telegram Channnel {Fore.YELLOW + Style.BRIGHT}(https://t.me/D4rkCipherX)
             """
         )
 
