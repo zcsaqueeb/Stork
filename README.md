@@ -66,20 +66,6 @@ nano proxy.txt
 python bot.py #or python3 bot.py
 ```
 
-## Buy Me a Coffee
-
-- EVM:
-```bash
-0x47f41Fcb17cF9B7A02C26EE855d26bB8D3928E1b
-```
-- TON:
-```bash
-UQA-qG5eyQ7gVxvPDpy484xzc0UPS9a8hJsUAwe0T_3D7_oF
-```
-- SOL:
-```bash
-A1pUv13rRDtubtYJuXswZYSQBJojPhthXJftfNZBRnEX
-```
 - SUI:
 ```bash
 0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
