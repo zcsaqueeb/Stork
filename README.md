@@ -66,7 +66,3 @@ nano proxy.txt
 python bot.py #or python3 bot.py
 ```
 
-- SUI:
-```bash
-0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
-```
